@@ -1,4 +1,4 @@
 # TypeScriptTest
 TypeScript Test Stuff
 
-TypeScript Practice Codes about Module, Interface, Class, Inheritance
+TypeScript Practice Code about Module, Interface, Class, Inheritance
